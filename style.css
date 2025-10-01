@@ -1,1 +1,18 @@
+/* FCC Project Template – style.css */
 
+/* Reset / Base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+  padding: 20px;
+}
+
+/* Add your project-specific styles below */
