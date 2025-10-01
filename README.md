@@ -24,11 +24,13 @@ The project demonstrates my ability to build responsive, accessible, and semanti
 ---
 
 ## 📂 Project Structure 
-- fcc-project-name/ 
--│── index.html     # Main HTML structure 
--│── style.css      # Custom CSS styling 
--│── script.js      # (Optional) JavaScript functionality 
--│── README.md      # Project documentation
+- fcc-project-name/
+│── index.html     # Main HTML structure
+│── style.css      # Custom CSS styling
+│── script.js      # (Optional) JavaScript functionality
+│── README.md      # Project documentation
+│── LICENSE        # Project license
+└── assets/        # Screenshots, images, and other assets
 ---
 
 ## 📸 Preview  
